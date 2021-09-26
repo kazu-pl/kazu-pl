@@ -34,7 +34,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 <img width="50px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp &nbsp
 <img width="50px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" /> &nbsp &nbsp
 <img width="50px" alt="styled-components" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" /> &nbsp &nbsp
-<img width="50px" alt="material-ui" src="https://material-ui.com/static/logo.png" /> &nbsp &nbsp
+<img width="50px" alt="material-ui" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /> &nbsp &nbsp
 <img width="50px" alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" /> &nbsp &nbsp
   
   
