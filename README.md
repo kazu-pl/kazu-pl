@@ -64,6 +64,6 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 <img width=50px" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /> &nbsp &nbsp
 <img width="50px" alt="yarn" src="https://iconape.com/wp-content/png_logo_vector/yarn-2.png" /> &nbsp &nbsp
 <img width="50px" alt="swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" /> &nbsp &nbsp
-<img width="80px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp
+<img width="65px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp
 </div>
 
