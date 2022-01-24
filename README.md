@@ -45,6 +45,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 <div>
 <img width="50px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp &nbsp
 <img width="50px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
+<img width="50px" alt="rxjs" src="https://rxjs.dev/assets/images/favicons/favicon-192x192.png" /> &nbsp &nbsp
 </div>
 
 #### Front-end Frameworks
@@ -55,6 +56,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 #### Frontend Tools and libs
 <div>
 <img width="50px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" /> &nbsp &nbsp
+<img width="50px" alt="redux-observable" src="https://cloud.githubusercontent.com/assets/762949/18562188/905876f6-7b37-11e6-8677-f9dd091490f6.gif" /> &nbsp &nbsp
 <img width="50px" alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" /> &nbsp &nbsp
 </div>
 
@@ -92,5 +94,5 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 <img width="50px" alt="yarn" src="https://iconape.com/wp-content/png_logo_vector/yarn-2.png" /> &nbsp &nbsp
 <img width="50px" alt="swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" /> &nbsp &nbsp
 <img width="65px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp
-</div>
+<img width="65px" alt="axios" src="https://user-images.githubusercontent.com/80266868/145017920-d3aa6b94-a954-451e-86d0-e90136e218a9.png" /> &nbsp &nbsp                </div>
 
