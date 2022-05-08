@@ -50,7 +50,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 
 #### Front-end Frameworks
 <div>
-<img width="50px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp &nbsp
+<img width="50px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp 
 </div>
 
 #### Frontend Tools and libs
@@ -70,8 +70,8 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
   
    
 #### Testing
-<img width="50px" alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" /> &nbsp &nbsp
-<img width="50px" alt="jest" src="https://nx.dev/documentation/shared/jest-logo.png" /> &nbsp &nbsp
+<img width="50px" alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" /> &nbsp
+<img width="50px" alt="jest" src="https://nx.dev/documentation/shared/jest-logo.png" /> &nbsp
 
 #### Backend Technology
 <div>
