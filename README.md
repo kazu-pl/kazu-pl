@@ -62,7 +62,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 
 
   
-<img width="50px" alt="next" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" /> &nbsp &nbsp 
+<img width="50px" alt="next" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" /> 
 
 
 <!-- <img width="50px" alt="graphql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" /> &nbsp &nbsp  -->
@@ -70,8 +70,8 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
   
    
 #### Testing
-<img width="50px" alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" /> &nbsp
-<img width="50px" alt="jest" src="https://nx.dev/documentation/shared/jest-logo.png" /> &nbsp
+<img width="50px" alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" />
+<img width="50px" alt="jest" src="https://nx.dev/documentation/shared/jest-logo.png" />
 
 #### Backend Technology
 <div>
