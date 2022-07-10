@@ -56,7 +56,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 #### Frontend Tools and libs
 <div>
 <img width="50px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" /> &nbsp &nbsp
-<img width="25px" alt="redux-observable" src="https://cloud.githubusercontent.com/assets/762949/18562188/905876f6-7b37-11e6-8677-f9dd091490f6.gif" /> &nbsp &nbsp
+<img width="50px" alt="redux-observable" src="https://miro.medium.com/max/1200/1*YFFWL4PhXKSDId3GEeRlYA.png" /> &nbsp &nbsp
 <img width="50px" alt="storybook" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" /> &nbsp &nbsp
 </div>
 
